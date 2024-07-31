@@ -1,7 +1,5 @@
 # Aprenda Português Brasileiro: Um Guia Completo
 
-[[TOC]]
-
 ## Prefácio
 
 Bem-vindo(a) ao "Aprenda Português Brasileiro: Um Guia Completo"! Este livro é um projeto pessoal que nasceu enquanto eu estava aprendendo a língua portuguesa. Cada capítulo e exercício aqui foram desenvolvidos com dedicação e carinho, refletindo minha própria jornada e desafios ao mergulhar no universo do português brasileiro.
@@ -117,4 +115,213 @@ O alfabeto português é composto por 26 letras, assim como o alfabeto inglês. 
 
 #### Conclusão
 
-Dominar o alfabeto é a base para aprender a ler, escrever e pronunciar corretamente em português. Pratique regularmente e familiarize-se com a sonoridade única do português brasileiro.
+Dominar o alfabeto é a base para aprender a ler, escrever e pronunciar corretamente em português. 
+
+Pratique regularmente e familiarize-se com a sonoridade única do português brasileiro.
+
+## Unidade 1: Fundamentos do Português Brasileiro
+
+### 1.2. Pronúncia e Fonética
+
+#### Introdução à Pronúncia e Fonética
+
+A pronúncia e a fonética do português brasileiro podem ser um desafio para quem está aprendendo a língua, devido à variedade de sons e entonações. Esta seção fornecerá uma visão geral dos sons mais comuns e como eles são usados no português brasileiro.
+
+#### Vogais
+
+O português brasileiro tem cinco vogais básicas: a, e, i, o, u, mas cada uma delas pode ter diferentes sons dependendo do contexto e dos acentos gráficos.
+
+- **A:**
+  - Aberto: [a] como em "casa"
+  - Fechado: [ɐ] como em "pássaro"
+- **E:**
+  - Aberto: [ɛ] como em "pé"
+  - Fechado: [e] como em "ele"
+  - Mudo: [ɨ] como em "interessante"
+- **I:** [i] como em "igreja"
+- **O:**
+  - Aberto: [ɔ] como em "sol"
+  - Fechado: [o] como em "outro"
+- **U:** [u] como em "uva"
+
+#### Consoantes
+
+Algumas consoantes têm sons específicos no português brasileiro:
+
+- **C:**
+  - Antes de 'a', 'o', 'u': [k] como em "casa"
+  - Antes de 'e', 'i': [s] como em "certo"
+- **R:**
+  - No início de palavras e após 'n' ou 'l': [ʁ] como em "rua"
+  - Entre vogais: [ɾ] como em "caro"
+- **S:**
+  - No início de palavras ou entre vogais: [s] como em "sapo"
+  - No final de palavras: [ʃ] como em "mais" (em algumas regiões do Brasil)
+- **L:**
+  - No início de palavras: [l] como em "lua"
+  - No final de sílabas: [w] como em "sal" (em algumas regiões do Brasil)
+
+#### Acentos Gráficos e sua Influência na Pronúncia
+
+- **Acento Agudo (´):** Indica uma vogal aberta, como em "pé" ([pɛ]).
+- **Acento Circunflexo (^):** Indica uma vogal fechada, como em "pê" ([pe]).
+- **Til (~):** Indica nasalização, como em "pão" ([pãw]).
+
+#### Exercícios de Pronúncia
+
+- **Repetição de Sons:** Pratique os sons das vogais e consoantes repetidamente, prestando atenção às variações de pronúncia.
+- **Gravação:** Grave sua voz pronunciando palavras e compare com a pronúncia de falantes nativos.
+- **Ditado Fonético:** Ouça palavras e escreva a transcrição fonética para reforçar a associação entre som e escrita.
+
+#### Conclusão
+
+Entender a pronúncia e a fonética do português brasileiro é essencial para uma comunicação eficaz. 
+
+Pratique regularmente para melhorar sua precisão e confiança na fala.
+
+## Unidade 1: Fundamentos do Português Brasileiro
+
+### 1.3. Regras Básicas de Ortografia
+
+#### Introdução às Regras de Ortografia
+
+A ortografia é a forma correta de escrever as palavras, respeitando as convenções de uma língua. No português brasileiro, existem regras específicas que orientam a escrita correta das palavras. Esta seção apresentará as regras básicas de ortografia que você precisa conhecer.
+
+#### Uso das Letras Maiúsculas e Minúsculas
+
+- **Letras Maiúsculas:** Usadas no início de frases, em nomes próprios (pessoas, lugares, organizações), títulos de obras e após pontuação que indica o fim de uma frase.
+  - Exemplo: "Brasil", "Maria", "O Senhor dos Anéis".
+- **Letras Minúsculas:** Usadas em todas as outras situações.
+  - Exemplo: "casa", "carro", "livro".
+
+#### Acentuação Gráfica
+
+A acentuação gráfica é usada para indicar a tonicidade e a qualidade da pronúncia das vogais.
+
+- **Acento Agudo (´):** Indica vogal tônica aberta.
+  - Exemplo: "má", "pé", "avó".
+- **Acento Circunflexo (^):** Indica vogal tônica fechada.
+  - Exemplo: "pêssego", "vôo".
+- **Acento Grave (`):** Indica crase (fusão de preposição "a" com o artigo definido "a").
+  - Exemplo: "à", "às", "àquele".
+- **Til (~):** Indica nasalização da vogal.
+  - Exemplo: "pão", "mão", "irmã".
+- **Trema (¨):** Usado em palavras de origem estrangeira, não é mais utilizado em palavras de origem portuguesa.
+  - Exemplo: "lingüiça" (antiga), "linguiça" (atual).
+
+#### Consoantes Duplas
+
+Algumas palavras utilizam consoantes duplas, como "ss" e "rr".
+- Exemplo: "passar", "carro".
+
+#### Hífen
+
+O hífen é utilizado para unir palavras compostas, separar prefixos de palavras e em algumas flexões verbais.
+
+- **Palavras compostas:**
+  - Exemplo: "guarda-chuva", "segunda-feira".
+- **Prefixos:**
+  - Exemplo: "anti-inflamatório", "pré-escola".
+- **Flexões verbais:**
+  - Exemplo: "pôr-do-sol", "bem-estar".
+
+#### Uso do "Ç" e "SS"
+
+- **"Ç":** Utilizado antes das vogais "a", "o", "u".
+  - Exemplo: "coração", "açúcar".
+- **"SS":** Utilizado entre vogais.
+  - Exemplo: "passado", "assunto".
+
+#### Mudanças Ortográficas Recentes
+
+Com o Acordo Ortográfico da Língua Portuguesa de 1990, algumas regras foram modificadas. Algumas mudanças importantes incluem:
+
+- **Eliminação do Trema:** O trema não é mais utilizado em palavras de origem portuguesa.
+  - Exemplo: "linguiça" (atual), "lingüiça" (antiga).
+- **Mudança em algumas consoantes duplas:** Algumas palavras que tinham consoantes duplas, agora não têm mais.
+  - Exemplo: "ações" (atual), "acções" (antiga).
+
+#### Exercícios Práticos
+
+- **Escrita Correta:** Escreva uma lista de palavras e revise a ortografia utilizando as regras aprendidas.
+- **Ditado:** Peça a alguém para ditar palavras ou frases e escreva-as corretamente.
+- **Correção de Textos:** Revise textos escritos por você ou por outros, corrigindo erros ortográficos.
+
+#### Conclusão
+
+Dominar as regras básicas de ortografia é essencial para a escrita correta em português. Pratique regularmente para garantir que você está utilizando as convenções ortográficas de maneira apropriada.
+
+---
+
+## Unidade 1: Fundamentos do Português Brasileiro
+
+### 1.4. Saudações e Introduções
+
+#### Introdução às Saudações e Introduções
+
+As saudações e introduções são a base de qualquer interação social. Saber como cumprimentar e se apresentar em português brasileiro é essencial para causar uma boa impressão e estabelecer conexões. Nesta seção, abordaremos as formas mais comuns de saudações e como se apresentar adequadamente.
+
+#### Saudações Comuns
+
+- **Olá:** Uma saudação informal usada em muitas situações.
+  - Exemplo: "Olá, tudo bem?"
+- **Oi:** Outra forma informal de dizer olá.
+  - Exemplo: "Oi, como vai?"
+- **Bom dia:** Usado na parte da manhã até o meio-dia.
+  - Exemplo: "Bom dia, você está bem?"
+- **Boa tarde:** Usado da parte da tarde até o início da noite.
+  - Exemplo: "Boa tarde, como foi o seu dia?"
+- **Boa noite:** Usado no início da noite e também como despedida noturna.
+  - Exemplo: "Boa noite, até amanhã."
+- **Tudo bem?/Tudo bom?:** Pergunta usada para saber como a outra pessoa está.
+  - Exemplo: "Tudo bem? Como você está?"
+
+#### Respostas às Saudações
+
+- **Tudo bem, e você?:** Resposta comum à pergunta "Tudo bem?"
+  - Exemplo: "Tudo bem, e você?"
+- **Estou bem, obrigado/obrigada:** Resposta educada, com "obrigado" usado por homens e "obrigada" por mulheres.
+  - Exemplo: "Estou bem, obrigada."
+- **Mais ou menos:** Resposta usada quando as coisas não estão tão bem.
+  - Exemplo: "Mais ou menos, e você?"
+
+#### Introduções Formais e Informais
+
+##### Introduções Formais
+
+- **Como se apresentar:**
+  - Exemplo: "Meu nome é [Seu Nome]."
+  - Exemplo: "Eu sou [Seu Nome]."
+- **Como perguntar o nome de alguém:**
+  - Exemplo: "Qual é o seu nome?"
+  - Exemplo: "Como você se chama?"
+
+##### Introduções Informais
+
+- **Como se apresentar:**
+  - Exemplo: "Oi, eu sou o/a [Seu Nome]."
+  - Exemplo: "Meu nome é [Seu Nome], e o seu?"
+- **Como perguntar o nome de alguém:**
+  - Exemplo: "E você, como se chama?"
+  - Exemplo: "Qual é o seu nome?"
+
+#### Expressões Úteis em Introduções
+
+- **Prazer em conhecê-lo/conhecê-la:** Usado ao ser apresentado a alguém (conhecê-lo para homens, conhecê-la para mulheres).
+  - Exemplo: "Prazer em conhecê-lo."
+- **Muito prazer:** Alternativa informal para expressar o prazer em conhecer alguém.
+  - Exemplo: "Muito prazer!"
+- **Igualmente:** Resposta ao ouvir "prazer em conhecê-lo/conhecê-la" ou "muito prazer."
+  - Exemplo: "Igualmente!"
+
+#### Exercícios Práticos
+
+- **Prática de Diálogos:** Encontre um parceiro de estudo e pratique diálogos de saudação e introdução.
+- **Escrita de Apresentações:** Escreva uma breve apresentação pessoal e pratique dizer em voz alta.
+- **Role-Playing:** Faça encenações de situações onde você precisa se apresentar ou cumprimentar alguém.
+
+#### Conclusão
+
+Aprender saudações e introduções é o primeiro passo para interagir de maneira eficaz em português brasileiro. Pratique regularmente essas expressões para se sentir mais confortável e natural ao usá-las.
+
+---
