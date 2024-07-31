@@ -1,6 +1,6 @@
 # Aprenda Português Brasileiro: Um Guia Completo
 
-[TOC]
+[[TOC]]
 
 ## Prefácio
 
