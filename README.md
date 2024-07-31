@@ -21,30 +21,98 @@ Com carinho e dedicação,
 Adrian R
 
 ## Introdução
+
 ### Objetivos do Livro
 O principal objetivo deste livro é fornecer um guia abrangente e acessível para aprender o português brasileiro. Queremos que você:
 
 - **Desenvolva Habilidades Comunicativas:** Capacitar você a falar, ouvir, ler e escrever em português com confiança e precisão.
 
 - **Entenda a Cultura Brasileira:** Introduzir você à rica e diversificada cultura do Brasil, ajudando a contextualizar o uso da língua.
-Aprenda de Forma Progressiva: Guiar você desde os fundamentos básicos até as estruturas mais complexas, com uma abordagem gradual e sistemática.
-Aplique o Conhecimento em Situações Reais: Preparar você para usar o português em diversas situações cotidianas e profissionais.
-Como Usar Este Livro
+
+- **Aprenda de Forma Progressiva:** Guiar você desde os fundamentos básicos até as estruturas mais complexas, com uma abordagem gradual e sistemática.
+
+- **Aplique o Conhecimento em Situações Reais:** Preparar você para usar o português em diversas situações cotidianas e profissionais.
+
+### Como Usar Este Livro
 Este livro foi projetado para ser flexível e adaptável às suas necessidades e ritmo de aprendizado. Aqui estão algumas dicas para maximizar seu uso:
 
-Estude de Forma Sequencial: Recomendamos seguir a ordem das unidades, pois cada capítulo se baseia no conhecimento adquirido nos anteriores.
-Pratique Regularmente: A prática constante é essencial. Reserve tempo para estudar e realizar os exercícios propostos.
-Use os Exercícios: Cada unidade inclui exercícios de prática. Faça-os com atenção e revise as respostas nos anexos para corrigir possíveis erros.
-Aproveite os Recursos Culturais: As seções sobre cultura e sociedade oferecem uma visão contextual que enriquece o aprendizado da língua.
-Revise Periodicamente: Releia capítulos anteriores para reforçar seu conhecimento e garantir que você não esqueça o que já aprendeu.
-Recursos Adicionais
+- **Estude de Forma Sequencial:** Recomendamos seguir a ordem das unidades, pois cada capítulo se baseia no conhecimento adquirido nos anteriores.
+
+- **Pratique Regularmente:** A prática constante é essencial. Reserve tempo para estudar e realizar os exercícios propostos.
+
+- **Use os Exercícios:** Cada unidade inclui exercícios de prática. Faça-os com atenção e revise as respostas nos anexos para corrigir possíveis erros.
+
+- **Aproveite os Recursos Culturais:** As seções sobre cultura e sociedade oferecem uma visão contextual que enriquece o aprendizado da língua.
+
+- **Revise Periodicamente:** Releia capítulos anteriores para reforçar seu conhecimento e garantir que você não esqueça o que já aprendeu.
+
+### Recursos Adicionais
 Para complementar seu aprendizado, oferecemos uma variedade de recursos adicionais:
 
-Áudios de Pronúncia: Acesso a gravações de áudio para ajudar na prática da pronúncia correta.
-Vídeos Educativos: Links para vídeos que ilustram conceitos gramaticais e culturais abordados no livro.
-Exercícios Interativos: Atividades online para reforçar o conteúdo de cada unidade.
-Grupos de Estudo: Informações sobre como participar de grupos de estudo online e presenciais.
-Referências Bibliográficas: Lista de livros, artigos e websites recomendados para aprofundar seu conhecimento.
+- **Áudios de Pronúncia:** Acesso a gravações de áudio para ajudar na prática da pronúncia correta.
+
+- **Vídeos Educativos:** Links para vídeos que ilustram conceitos gramaticais e culturais abordados no livro.
+
+- **Exercícios Interativos:** Atividades online para reforçar o conteúdo de cada unidade.
+
+- **Grupos de Estudo:** Informações sobre como participar de grupos de estudo online e presenciais.
+
+- **Referências Bibliográficas:** Lista de livros, artigos e websites recomendados para aprofundar seu conhecimento.
+
 Este livro é mais do que um simples manual de língua; é um convite para explorar e apreciar uma nova cultura. Esperamos que você aproveite esta jornada de aprendizado e que, ao final, sinta-se não apenas um falante de português, mas um verdadeiro entusiasta da cultura brasileira.
 
 Vamos começar!
+
+## Unidade 1: Fundamentos do Português Brasileiro
+
+### 1.1. O Alfabeto Português
+
+#### Introdução ao Alfabeto
+
+O alfabeto português é composto por 26 letras, assim como o alfabeto inglês. No entanto, a pronúncia de algumas letras pode ser diferente. Aprender o alfabeto é o primeiro passo para a leitura e a escrita em português. Abaixo está a lista das letras com suas respectivas pronúncias em português brasileiro:
+
+#### As Letras e Suas Pronúncias
+
+| Letra | Nome da Letra | Pronúncia | Exemplo   |
+|-------|----------------|-----------|-----------|
+| A     | a              | [a]       | arroz     |
+| B     | bê             | [be]      | bola      |
+| C     | cê             | [se]      | casa      |
+| D     | dê             | [de]      | dado      |
+| E     | e              | [e]       | elefante  |
+| F     | efe            | [ɛfe]     | faca      |
+| G     | gê             | [ʒe]      | gato      |
+| H     | agá            | [a'ga]    | hotel     |
+| I     | i              | [i]       | igreja    |
+| J     | jota           | [ʒɔta]    | jogo      |
+| K     | ká             | [ka]      | kilo      |
+| L     | ele            | [ɛle]     | livro     |
+| M     | eme            | [ɛmi]     | macaco    |
+| N     | ene            | [ɛni]     | ninho     |
+| O     | o              | [ɔ]       | olho      |
+| P     | pê             | [pe]      | pato      |
+| Q     | quê            | [ke]      | quintal   |
+| R     | erre           | [ɛrɨ]     | rato      |
+| S     | esse           | [ɛsi]     | sapo      |
+| T     | tê             | [te]      | tatu      |
+| U     | u              | [u]       | uva       |
+| V     | vê             | [ve]      | vaca      |
+| W     | dábliu         | [dabliu]  | watts     |
+| X     | xis            | [ʃis]     | exame     |
+| Y     | ípsilon        | [ipsilõ]  | yoga      |
+| Z     | zê             | [ze]      | zebra     |
+
+#### Dicas de Pronúncia
+
+- **Acentos Gráficos:** O português brasileiro utiliza acentos gráficos que podem alterar a pronúncia das vogais (á, é, í, ó, ú, â, ê, ô, ã, õ).
+- **Consoantes:** Algumas consoantes, como "r" e "s", podem ter pronúncias diferentes dependendo da sua posição na palavra e da região do Brasil.
+
+#### Exercícios Práticos
+
+- **Repetição e Memorização:** Pronuncie cada letra do alfabeto em voz alta, tentando imitar a pronúncia brasileira.
+- **Escrita de Palavras:** Escreva uma lista de palavras que começam com cada letra do alfabeto.
+- **Ditado:** Ouça as letras pronunciadas por um falante nativo e escreva-as para praticar a compreensão auditiva.
+
+#### Conclusão
+
+Dominar o alfabeto é a base para aprender a ler, escrever e pronunciar corretamente em português. Pratique regularmente e familiarize-se com a sonoridade única do português brasileiro.
