@@ -1,5 +1,7 @@
 # Aprenda Português Brasileiro: Um Guia Completo
 
+[TOC]
+
 ## Prefácio
 
 Bem-vindo(a) ao "Aprenda Português Brasileiro: Um Guia Completo"! Este livro é um projeto pessoal que nasceu enquanto eu estava aprendendo a língua portuguesa. Cada capítulo e exercício aqui foram desenvolvidos com dedicação e carinho, refletindo minha própria jornada e desafios ao mergulhar no universo do português brasileiro.
